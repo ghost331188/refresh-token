@@ -1,0 +1,7 @@
+requests
+pyyaml
+PyYAML
+tqdm
+geoip2
+Flask
+gunicorn
